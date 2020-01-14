@@ -9,6 +9,10 @@ header {
     background-image: url("../images/Cafe.jpg");
 }
 
+main, footer{
+    max-width: 790px;
+    margin:  0 auto;
+}
 h1 {
     color: white;
 }
