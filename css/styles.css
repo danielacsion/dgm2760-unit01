@@ -9,17 +9,25 @@ header {
     background-image: url("../images/Cafe.jpg");
 }
 
+footer {
+    background-color: lightgray;
+    text-align: center;
+}
+
 main, footer{
     max-width: 790px;
     margin:  0 auto;
 }
 
 h1 {
+    padding-top: 70px;
+    margin-left: 20px;
     color: white;
 }
 
 h2{
-    color: black;
+    margin-left: 20px;
+    color: white;
 }
 
 .learned {
