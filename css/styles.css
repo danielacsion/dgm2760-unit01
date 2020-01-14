@@ -13,12 +13,13 @@ main, footer{
     max-width: 790px;
     margin:  0 auto;
 }
+
 h1 {
     color: white;
 }
 
 h2{
-    color: white;
+    color: black;
 }
 
 .learned {
